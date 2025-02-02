@@ -2,6 +2,8 @@
 
 Build Typst documents using GitHub workflows.
 
+Forked to update the options handling which was throwing errors
+
 ## Minimal example
 
 The following `.github/workflows/build.yaml` action compiles `main.typ` to `main.pdf` on every push.
