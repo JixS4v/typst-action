@@ -1,6 +1,6 @@
-name: Github Action for Typst
+name: Github Action for Typst (Updated)
 description: GitHub Action to compile typst documents
-author: Louis Vignoli
+author: JixS4v
 branding:
   icon: book-open
   color: blue
